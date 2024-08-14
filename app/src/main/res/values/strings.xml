@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="sign_in">"Sign In "</string>
+    <string name="logout">Logout</string>
+    <string name="start_typing">Start typing</string>
+    <string name="save">Save</string>
+    <string name="fabicon">fabicon</string>
+    <string name="note_content">Note content</string>
+    <string name="web_client_id">883007593604-hgpveu4n9dnqvktfna5i2gu0lmm8sc6c.apps.googleusercontent.com</string>
+    <string name="sign_in_to_continue">Sign In With Google</string>
+</resources>
